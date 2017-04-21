@@ -26,9 +26,21 @@
 
 ## Alfred
   * cont - поиск по контактам
+  ```
+  https://contacts.google.com/search/{query}
+  ```
   * gg - поиск по github
+  ```
+  https://www.google.by/search?btnI=I'm+Feeling+Lucky&q=site:github.com+{query}
+  ```
   * jira - поиск по таске
+  ```
+  http://jira/secure/QuickSearch.jspa?searchString={query}
+  ```
   * man - explainshell.com
+  ```
+  http://explainshell.com/explain?cmd={query}
+  ```
   * translate
   * ⌥-C - стэк буфера обмена
   * ip
@@ -106,5 +118,5 @@ you-get htt:\\videolink
 movist speedup
 
 ## Links
-http://www.macbed.com
-http://sourabhbajaj.com/mac-setup/
+[Macbed](http://www.macbed.com "Macbed")
+[Mac Setup](http://sourabhbajaj.com/mac-setup/ "Mac Setup")
