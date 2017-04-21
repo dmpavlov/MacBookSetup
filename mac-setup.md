@@ -6,6 +6,12 @@
   * Сочетания клавиш - Всеми объектами управления
   * Клавиатура - Русская ПК
 
+## All Applications
+  * Safari - оптимизирован для работы на mac
+  * ⌘-L - строка ввода адреса
+  * ⇧-⌘-[] - переключение вкладок
+  * ⇧-⌘-? - поиск по меню
+
 ## Bettertouchtool
   * ⌥-F - finder
   * ⌥-S - safari
@@ -94,12 +100,6 @@ slack, skype, telegram
   * git commit - без -m в редакторе
   * gem install atlassian-stash
   * stash pull-request release/7.5 @u_m0sgt @u_m0v3q
-
-## All Applications
-  * Safari - оптимизирован для работы на mac
-  * ⌘-L - строка ввода адреса
-  * ⇧-⌘-[] - переключение вкладок
-  * ⇧-⌘-? - поиск по меню
 
 ## Video
 you-get htt:\\videolink
