@@ -84,11 +84,8 @@ slack, skype, telegram
 ## ~/.zshrc ~/.bash_profile
   * alias op="open ."
   * alias ls="ls -lah"
-  * alias abm="cd ~/abm-ios"
-  * alias abman="cd ~/abm-android"
-  * alias aman="cd ~/am-android"
-  * alias amios="cd ~/am-ios"
-  * cd abm
+  * alias dev="cd ~/Development"
+  * cd dev
 
 ## zsh/oh-my-zsh
   * ~ - без cd
@@ -105,7 +102,7 @@ slack, skype, telegram
   * git rebase -
   * git commit - без -m в редакторе
   * gem install atlassian-stash
-  * stash pull-request release/7.5 @u_m0sgt @u_m0v3q
+  * stash pull-request release/7.5 @default_reviewer1 @default_reviewer2
 
 ## All Applications
   * Safari - оптимизирован для работы на mac
