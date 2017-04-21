@@ -118,5 +118,5 @@ you-get htt:\\videolink
 movist speedup
 
 ## Links
-[Macbed](http://www.macbed.com "Macbed")
-[Mac Setup](http://sourabhbajaj.com/mac-setup/ "Mac Setup")
+  * [Macbed](http://www.macbed.com "Macbed")
+  * [Mac Setup](http://sourabhbajaj.com/mac-setup/ "Mac Setup")
