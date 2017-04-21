@@ -61,12 +61,12 @@
   * ⇧-⌘-backspace - очистка корзины
   * ⌥-⌘-G - переход
   * ⌥-⌘-N - новая папка
-  * ⌘-D - копия выбранного 
+  * ⌘-D - копия выбранного
   * cmd-1,2,3,4 - виды
 
-## Langy - автопереключение раскладки 
-terminal, xcode, appcode, idea
-slack, skype, telegram
+## Langy - автопереключение раскладки
+  * http://langyapp.github.io/
+  * Examples: terminal, xcode, appcode, idea, slack, skype, telegram
 
 ## Palua - fn клавиша
 ## Bartender - управление статус баром
@@ -102,7 +102,7 @@ slack, skype, telegram
   * ls **/*.txt
   * поиск по истории
 
-## Git 
+## Git
   * git checkout -
   * git merge -
   * git rebase -
