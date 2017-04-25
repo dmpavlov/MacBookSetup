@@ -12,6 +12,9 @@
   * ⇧-⌘-[] - переключение вкладок
   * ⇧-⌘-? - поиск по меню
 
+## Spectacleapp - Move and resize windows
+  * https://www.spectacleapp.com/
+
 ## Bettertouchtool
   * ⌥-F - finder
   * ⌥-S - safari
