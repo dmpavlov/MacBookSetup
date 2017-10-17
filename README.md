@@ -67,6 +67,9 @@
   * ⌘-D - копия выбранного
   * cmd-1,2,3,4 - виды
 
+## Плагины для быстрого просмотра Finder
+  * [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
+
 ## Langy - автопереключение раскладки
   * http://langyapp.github.io/
   * Examples: terminal, xcode, appcode, idea, slack, skype, telegram
@@ -105,6 +108,9 @@
   * ls **/*.txt
   * поиск по истории
 
+## J
+  * [J](https://github.com/wting/autojump) запоминает историю переходов по дереву директорий и порой буквально по одной букве угадывает, куда хочется переместиться: «j d», например, бросает меня в ~/Documents.
+
 ## Git
   * git checkout -
   * git merge -
@@ -120,3 +126,4 @@ movist speedup
 ## Links
   * [Macbed](http://www.macbed.com "Macbed")
   * [Mac Setup](http://sourabhbajaj.com/mac-setup/ "Mac Setup")
+  * [Подборка профессиональных приложений для Macbook Pro](https://vc.ru/26567-macbook-apps)
