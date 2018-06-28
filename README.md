@@ -127,3 +127,4 @@ movist speedup
   * [Macbed](http://www.macbed.com "Macbed")
   * [Mac Setup](http://sourabhbajaj.com/mac-setup/ "Mac Setup")
   * [Подборка профессиональных приложений для Macbook Pro](https://vc.ru/26567-macbook-apps)
+  * [Делаем тачбар наконец-то полезным](http://vas3k.ru/blog/touchbar/)
