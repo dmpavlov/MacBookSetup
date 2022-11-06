@@ -12,8 +12,11 @@
   * ⇧-⌘-[] - переключение вкладок
   * ⇧-⌘-? - поиск по меню
 
-## Spectacleapp - Move and resize windows
-  * https://www.spectacleapp.com/
+## Раскладка клавиатуры Ильи Бирмана
+  * https://ilyabirman.net/typography-layout/
+
+## Magnet - Move and resize windows
+  * https://magnet.crowdcafe.com/index.html
 
 ## Bettertouchtool
   * ⌥-F - finder
@@ -107,6 +110,9 @@
   * cdf
   * ls **/*.txt
   * поиск по истории
+  
+## iTerm
+  * [Плагины oh-my-zsh по красоте](https://www.josean.com/posts/terminal-setup)
 
 ## J
   * [J](https://github.com/wting/autojump) запоминает историю переходов по дереву директорий и порой буквально по одной букве угадывает, куда хочется переместиться: «j d», например, бросает меня в ~/Documents.
@@ -120,11 +126,10 @@
   * stash pull-request release/7.5 @default_reviewer1 @default_reviewer2
 
 ## Video
-you-get htt:\\videolink
-movist speedup
+  * you-get htt:\\videolink
+  * movist speedup
 
 ## Links
   * [Macbed](http://www.macbed.com "Macbed")
   * [Mac Setup](http://sourabhbajaj.com/mac-setup/ "Mac Setup")
   * [Подборка профессиональных приложений для Macbook Pro](https://vc.ru/26567-macbook-apps)
-  * [Делаем тачбар наконец-то полезным](http://vas3k.ru/blog/touchbar/)
