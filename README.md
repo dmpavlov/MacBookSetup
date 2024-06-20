@@ -15,6 +15,9 @@
 ## Раскладка клавиатуры Ильи Бирмана
   * https://ilyabirman.net/typography-layout/
 
+## Переназначение клавиш Karabiner
+  * https://karabiner-elements.pqrs.org
+
 ## Magnet - Move and resize windows
   * https://magnet.crowdcafe.com/index.html
 
